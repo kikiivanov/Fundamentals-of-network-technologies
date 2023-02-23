@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Danube</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body bgcolor = "C6E2FF">
+      <h1 class="title" align="center">DANUBE</h1>
+      <a href = "https://en.wikipedia.org/wiki/Danube">Wikipedia</a>
+      <br></br>
+      <img src = "https://worldinmaps.com/wp-content/uploads/Picture-of-an-aerial-view-of-the-Danube-in-Romania.jpeg" width = "400" height = "300" alt = "A photo of my dog.">
+      <p align = "center"></p>
+      <a href = "https://www.worldatlas.com/r/w1200/upload/8b/77/d1/shutterstock-1701517159.jpg" download>CLICK HERE</a>
+      <p><strong>Danube</strong>, river, the second longest in Europe after the Volga.</p>
+      <p>The Danube is an international river, flowing through 10 countries:</p>
+      <ul>
+        <li>
+           Germany
+        </li>
+        <li>
+           Austria
+        </li>
+        <li>
+          Slovakia 
+        </li>
+        <li>
+           Hungary
+        </li>
+        <li>
+           Serbia
+        </li>
+        <li>
+           Bulgaria
+        </li>
+        <li>
+           Romania
+        </li>
+        <li>
+           Moldova
+        </li>
+        <li>
+           Ukraine
+        </li>
+    </ul>
+      <h3>Interesting facts</h3>
+      <ol>
+        <li>
+           The Danube flows through 4 capital cities and everyone starts with the letter B: Budapest, Vienna(in some Slavic languages Беч [Bech]), Bratislava, Belgrade.
+        </li>
+        <li>
+           The Danube was referred to as the “Queen of Europe’s River” by Napoleon. 
+        </li>
+        <li>
+          The greater part of the Danube Delta lies in Romania. 
+        </li>
+        <li>
+           More than 700 dams have been built along the Danube River’s tributaries. 
+        </li>
+    </ol>
+    <h3>Comparing Danube and Volga</h3>
+    <table border="2">
+        <tr>
+            <td><FONT COLOR ="880808">river</td>
+            <td><FONT COLOR = "000000">length</td>
+            <td><FONT COLOR = "CC0000">source</td>
+            <td><FONT COLOR = "FFA500">flows</td>
+        </tr>
+        <tr>
+            <td><FONT COLOR = "7E0CD6">Danube</td>
+            <td><FONT COLOR = "5F3E2B">2.850 km</td>
+            <td><FONT COLOR = "310F89">Germany</td>
+            <td><FONT COLOR = "008080">Black Sea</td>
+        </tr>
+        <tr>
+            <td><FONT COLOR = "174207">Volga</td>
+            <td><FONT COLOR = "018FFB">3.530 km</td>
+            <td><FONT COLOR = "B45F06">Russia</td>
+            <td><FONT COLOR = "E541CD">Caspian Sea</td>
+        </tr>
+      </table>
+      <p id="currentTime"></p>
+      <script src="script.js"></script>
+  </body>
+</html>
